@@ -1,1 +1,1 @@
-<img width="6250" height="4830" alt="Train your dog to do a special trick using Jay&#39;s dog treats for a chance to win up to $1,000 with the most votes! Visit trainandtrick com to enter the contest  Contest ends December 31st 2025" src="https://github.com/user-attachments/assets/43f81dc4-a868-4415-bdb0-d444383179ba" />
+<img src="https://github.com/user-attachments/assets/43f81dc4-a868-4415-bdb0-d444383179ba" style="width: 100vw; height: 100vh; object-fit: cover; display: block;" />
